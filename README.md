@@ -82,7 +82,7 @@ A curated list of resources for learning about the Swift Language.
 - Functional Swift Style Guide [:book:](https://github.com/CodaFi/functional-swift-style-guide)
 - The Official Swift Language Docs [:book:](https://github.com/apple/swift/tree/master/docs)
 - Swift Language Evolution [:book:](https://github.com/apple/swift-evolution)
-+ Swift Stye Rules [:book:](http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/)
++ Swift Style Rules [:book:](http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/)
 + SwiftLint [:book:](https://github.com/realm/SwiftLint)
 + Swift Don'ts [:book:](https://gist.github.com/erica/d91aef87e95f99c094c0)
 
